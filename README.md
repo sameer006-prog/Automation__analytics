@@ -22,4 +22,5 @@ Start the project by running: python main.py.
 
 Go to http://127.0.0.1:8000/docs in your browser to test the system.
 
-Developed by Sameer Sameer
+Developed by
+Sameer Sameer
